@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9700d79d5c06cb84d9dbae37dbbc92e1, type: 3}
+  m_Name: RingOfFire
+  m_EditorClassIdentifier: 
+  amount: 1
+  type: 0
+  Description: Esse anel pode aumentar o poder de ataque do seu portador
+  iconPrefab: {fileID: 0}
+  gamePrefab: {fileID: 0}
+  bonusAtack: 10
+  bonusDefense: 0

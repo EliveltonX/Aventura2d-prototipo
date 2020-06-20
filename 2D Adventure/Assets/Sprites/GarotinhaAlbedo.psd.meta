@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: aeebd6c94c6c3984fb5f35a67a2acc89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7940422223074139975
+    second: GarotinhaAlbedo_0
+  - first:
+      213: 7102704811270519196
+    second: GarotinhaAlbedo_1
+  - first:
+      213: 8066781283581595571
+    second: GarotinhaAlbedo_2
+  - first:
+      213: 6592557756668641594
+    second: GarotinhaAlbedo_3
+  - first:
+      213: 5687142757367917612
+    second: GarotinhaAlbedo_4
+  - first:
+      213: 5174300818216165696
+    second: GarotinhaAlbedo_5
+  - first:
+      213: -7494526609596614221
+    second: GarotinhaAlbedo_6
+  - first:
+      213: 4961948947530260044
+    second: GarotinhaAlbedo_7
+  - first:
+      213: -3541472323660524540
+    second: GarotinhaAlbedo_8
+  - first:
+      213: -4565540940415854564
+    second: GarotinhaAlbedo_9
+  - first:
+      213: -720844406002480971
+    second: GarotinhaAlbedo_10
+  - first:
+      213: 1508373288988029637
+    second: GarotinhaAlbedo_11
+  - first:
+      213: 6733465545887162074
+    second: GarotinhaAlbedo_12
+  - first:
+      213: -4555090241232541085
+    second: GarotinhaAlbedo_13
+  - first:
+      213: 8354042484905590828
+    second: GarotinhaAlbedo_14
+  - first:
+      213: -3699764485751938390
+    second: GarotinhaAlbedo_15
+  - first:
+      213: -6518564072416095276
+    second: GarotinhaAlbedo_16
+  - first:
+      213: 556435680038202409
+    second: GarotinhaAlbedo_17
+  - first:
+      213: -1766866681086890808
+    second: GarotinhaAlbedo_18
+  - first:
+      213: 7673642070597555064
+    second: GarotinhaAlbedo_19
+  - first:
+      213: -5432739687537195926
+    second: GarotinhaAlbedo_20
+  - first:
+      213: 5663395411000081905
+    second: GarotinhaAlbedo_21
+  - first:
+      213: 6312832117449119940
+    second: GarotinhaAlbedo_22
+  - first:
+      213: -6189478630064337842
+    second: GarotinhaAlbedo_23
+  - first:
+      213: 831964684084945283
+    second: GarotinhaAlbedo_0
+  - first:
+      213: -8591218585602071709
+    second: GarotinhaAlbedo_1
+  - first:
+      213: -3225109016126434569
+    second: GarotinhaAlbedo_2
+  - first:
+      213: 2751846370577042753
+    second: GarotinhaAlbedo_3
+  - first:
+      213: 2481386341749656703
+    second: GarotinhaAlbedo_4
+  - first:
+      213: -5291842485447365849
+    second: GarotinhaAlbedo_5
+  - first:
+      213: -9015344625540281919
+    second: GarotinhaAlbedo_6
+  - first:
+      213: 7312033895289491280
+    second: GarotinhaAlbedo_7
+  - first:
+      213: -3022400044848793285
+    second: GarotinhaAlbedo_8
+  - first:
+      213: 8072292233853831256
+    second: GarotinhaAlbedo_9
+  - first:
+      213: -7414223203827713674
+    second: GarotinhaAlbedo_10
+  - first:
+      213: -5381553725427860486
+    second: GarotinhaAlbedo_11
+  - first:
+      213: 3433772192716677569
+    second: GarotinhaAlbedo_12
+  - first:
+      213: 6901323434785281382
+    second: GarotinhaAlbedo_13
+  - first:
+      213: 6260848702026956046
+    second: GarotinhaAlbedo_14
+  - first:
+      213: -2119268551943495518
+    second: GarotinhaAlbedo_15
+  - first:
+      213: 2676631454062890822
+    second: GarotinhaAlbedo_16
+  - first:
+      213: 4316706215125135159
+    second: GarotinhaAlbedo_17
+  - first:
+      213: 4550041985456281281
+    second: GarotinhaAlbedo_18
+  - first:
+      213: 7493240762640647835
+    second: GarotinhaAlbedo_19
+  - first:
+      213: 9075125736144992087
+    second: GarotinhaAlbedo_20
+  - first:
+      213: -7668388623910501099
+    second: GarotinhaAlbedo_21
+  - first:
+      213: -1108558481126065198
+    second: GarotinhaAlbedo_22
+  - first:
+      213: 3273719087977866994
+    second: GarotinhaAlbedo_23
+  - first:
+      213: -6860218028328488761
+    second: GarotinhaAlbedo_24
+  - first:
+      213: 3540297329169529626
+    second: GarotinhaAlbedo_25
+  - first:
+      213: -370109081640341121
+    second: GarotinhaAlbedo_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ad84e87bbb8b00800000000000000
+      internalID: 831964684084945283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636471f63cd5c880800000000000000
+      internalID: -8591218585602071709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2dfdbef6c1e33d0800000000000000
+      internalID: -3225109016126434569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 968
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d41b2b1b5803620800000000000000
+      internalID: 2751846370577042753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8e7a1bb7af6220800000000000000
+      internalID: 2481386341749656703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be69ffb499f86b0800000000000000
+      internalID: -5291842485447365849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c1f214df03e280800000000000000
+      internalID: -9015344625540281919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f88524610997560800000000000000
+      internalID: 7312033895289491280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b9ad2c274e06d0800000000000000
+      internalID: -3022400044848793285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 936
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8588002940b860070800000000000000
+      internalID: 8072292233853831256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f36247436b1990800000000000000
+      internalID: -7414223203827713674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb31304661e055b0800000000000000
+      internalID: -5381553725427860486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1ed7acd9537af20800000000000000
+      internalID: 3433772192716677569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6659472691d66cf50800000000000000
+      internalID: 6901323434785281382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 872
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d38cc19b003e650800000000000000
+      internalID: 6260848702026956046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 872
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a060c9fa78d692e0800000000000000
+      internalID: -2119268551943495518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 872
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f21488e6508eb30800000000000000
+      internalID: 4316706215125135159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 872
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61c30241ff42f30800000000000000
+      internalID: 4550041985456281281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577de266c251fd70800000000000000
+      internalID: 9075125736144992087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150b28ec29649590800000000000000
+      internalID: -7668388623910501099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbfbbf4feb9d90f0800000000000000
+      internalID: -1108558481126065198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f626556a269e6d20800000000000000
+      internalID: 3273719087977866994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 840
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ffbbdc0c9bc0a0800000000000000
+      internalID: -6860218028328488761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf960e9a9a12130800000000000000
+      internalID: 3540297329169529626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarotinhaAlbedo_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717eac40cb1ddaf0800000000000000
+      internalID: -370109081640341121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
